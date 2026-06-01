@@ -99,4 +99,4 @@ Proporcionar una guía completa y accesible que permita a los usuarios utilizar 
 | Angel de Jesus Rufino Mendoza   | [@RufinoAngel](https://github.com/RufinoAngel)             | Líder del Proyecto y Desarrollador | ✅ Aprobado. |
 | Karen Lizbeth Negrete Hernández | [@KarenNegrete06](https://github.com/KarenNegrete06)       | Líder de Documentación             | Sin Revisar ❎ |
 | Abril Guzman Barrera            | [@Abrilgb](https://github.com/Abrilgb)                     | Líder de Frontend                  | Aprobado ✅   |
-| Esther Gonzalez Peralta         | [@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04) | Líder de Base de Datos             | Sin Revisar ❎ |
+| Esther Gonzalez Peralta         | [@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04) | Líder de Base de Datos             | ✅ Aprobado |
